@@ -1,1 +1,32 @@
 /* custom css */
+
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+}
+h1 {
+    text-align: center;
+}
+
+li {
+	list-style-type:none;
+	width: 30%;
+	padding:5px;
+	margin: 0 1%;
+	float: left;
+}
+
+li.one{
+	 background-color: #FF80FF;
+	 margin: 0 1% 0 0;
+}
+
+li.two{
+	 background-color: #FFFF4D;
+}
+
+li.three{
+	 background-color: #C2EBFF;
+	 margin: 0 0% 0 1%;
+}
