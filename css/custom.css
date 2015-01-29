@@ -37,10 +37,13 @@ li.three{
 	 margin: 0 1% 0 0;
 }
 
-h3 a {
-	display: block;
-	color: #222;
+h3 a:link {
 	text-decoration: none;
+	color: #333333;
+}
+
+h3 a:visited {
+    color: #A4A4A4;
 }
 
 h3 a:hover {
