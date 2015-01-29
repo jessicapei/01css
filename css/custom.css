@@ -9,17 +9,23 @@ h1 {
     text-align: center;
 }
 
+ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
 li {
-	list-style-type:none;
+	list-style:none;
 	width: 30%;
-	padding:5px;
+	padding:10px;
 	margin: 0 1%;
 	float: left;
 }
 
 li.one{
 	 background-color: #FF80FF;
-	 margin: 0 1% 0 0;
+	 margin: 0 0 0 1.5%;
 }
 
 li.two{
@@ -28,5 +34,15 @@ li.two{
 
 li.three{
 	 background-color: #C2EBFF;
-	 margin: 0 0% 0 1%;
+	 margin: 0 1% 0 0;
 }
+
+h3 a {
+	display: block;
+	color: #222;
+	text-decoration: none;
+}
+
+h3 a:hover {
+	color: #FFF;
+};
