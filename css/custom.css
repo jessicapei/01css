@@ -1,22 +1,12 @@
 /* custom css */
 
 body {
-<<<<<<< HEAD
 	margin:0;
 	padding:0;
 	width:100%;
 }
 h1 {
     text-align: center;
-=======
-	margin: 0;
-	padding: 0;
-	width: 100%;
-}
-
-h1 {
-	text-align: center;
->>>>>>> FETCH_HEAD
 }
 
 ul {
@@ -26,7 +16,6 @@ ul {
 }
 
 li {
-<<<<<<< HEAD
 	list-style:none;
 	width: 30%;
 	padding:10px;
@@ -46,27 +35,6 @@ li.two{
 li.three{
 	 background-color: #C2EBFF;
 	 margin: 0 1% 0 0;
-=======
-	margin: 0 1%;
-	padding: 10px;
-	width: 30%;
-	float: left;
-	list-style: none;
-}
-
-li.one {
-	margin: 0 1% 0 0;
-	background-color: #FF944D;
-}
-
-li.two {
-	background-color: #FFFF33;
-}
-
-li.three {
-	margin: 0 0 0 1%;
-	background-color: #99CCFF;
->>>>>>> FETCH_HEAD
 }
 
 h3 a {
